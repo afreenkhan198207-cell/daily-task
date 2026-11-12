@@ -1,0 +1,26 @@
+[
+    {
+        "name": "afreen",
+        "email": "afreen@.com",
+        "password": "123abc",
+        "account_balance": 10000,
+        "address": "xxxxxxx",
+        "account_number": 948343
+    },
+    {
+        "name": "yesna",
+        "email": "yesna@.com",
+        "password": "123456",
+        "account_balance": 20000,
+        "address": "xxxxxxx",
+        "account_number": 1092207
+    },
+    {
+        "name": "asfiya",
+        "email": "asfiya@.com",
+        "password": "123098",
+        "account_balance": 3000,
+        "address": "xxxxxxxxxx",
+        "account_number": 3189074
+    }
+]
